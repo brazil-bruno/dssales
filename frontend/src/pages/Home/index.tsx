@@ -1,8 +1,11 @@
 import React from "react";
+import Footer from "../../components/Footer";
+import NavBar from "../../components/NavBar";
 
 const Home = () => {
   return (
     <>
+      <NavBar />
       <div className="container">
         <div className="jumbotron">
           <h1 className="display-4">Sales</h1>
@@ -17,6 +20,7 @@ const Home = () => {
           <a className="btn btn-primary btn-lg" href="/dashboard">Access the Dashboard</a>
         </div>
       </div>
+      <Footer />
     </>
   );
 };
