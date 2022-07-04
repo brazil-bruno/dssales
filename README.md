@@ -1,4 +1,4 @@
-# DSMovie 
+# DS Sales
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/brazil-bruno/dssales/blob/main/LICENSE)
 
 # About the project
